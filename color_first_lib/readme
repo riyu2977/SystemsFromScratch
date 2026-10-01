@@ -6,9 +6,8 @@ THis is my first C library for adding colored output to terminal programs.
 - `color_main.c` — Test program demonstrating the library
 
 ## (NOTE: This library is only usable when in the SAME directory as the program file using it.)
+
 ## Usage
 Include the header file:
-
-```c
 #include "color.h"
 
